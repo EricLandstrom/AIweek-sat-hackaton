@@ -16,5 +16,6 @@ Satellite image hackathon for good, Satellites are the all seeing eye in the sky
 * http://sustain.stanford.edu/predicting-poverty
 
 # Data sources
-https://earthexplorer.usgs.gov
-https://scihub.copernicus.eu/dhus/#/home
+* https://earthexplorer.usgs.gov
+* https://scihub.copernicus.eu/dhus/#/home
+* https://datacatalog.worldbank.org
